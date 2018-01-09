@@ -1,0 +1,15 @@
+*{
+    background-color:lightgoldenrodyellow;
+} 
+
+.error {
+    color:red;
+}
+
+.hi{
+    background-color: lightgoldenrodyellow;
+    color:purple;
+    border:solid darkgreen 3px;
+    text-align:center;
+}    
+
