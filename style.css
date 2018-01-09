@@ -1,0 +1,14 @@
+*{
+    background-color:darkgoldenrod
+}
+
+.error {
+    color:red;
+}
+
+.hi{
+    color:purple;
+    border: 3px;
+    border-color:darkgreen;
+}    
+
